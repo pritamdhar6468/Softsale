@@ -30,3 +30,9 @@
 ```
 ## Link
 [Live Demo - Softsale](http://softsale.vercel.app "This is the Vercel link to this project")
+## Previous Works
+[Live Demo - Softsale](https://blogging-app-steel.vercel.app "This is the Vercel link to this project")
+[Live Demo - Video Editor](https://video-editor-ivory-ten.vercel.app/dashboard "This is the Vercel link to this project")
+[Live Demo - E-commerce](https://e-commerce-site-black.vercel.app/ "This is the Vercel link to this project")
+[Live Demo - Image-editor](https://simple-image-editor-beryl.vercel.app/ "This is the Vercel link to this project")
+
