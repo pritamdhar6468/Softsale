@@ -1,12 +1,29 @@
-# React + Vite
+# SoftSale- a Software License Selling Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features Implemented 
+- **Responsive Design**: The website is fully responsive and adapts seamlessly to different screen sizes.
+- **React Components**: Modular and reusable React components for better scalability and maintainability.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- **Framer Motion**: Smooth and customizable animations for a more dynamic user experience.
+- **Vite**: Fast development server and optimized build process for superior performance.
+## Design Choices
+- **Vite**: Chosen for its blazing-fast build time and efficient development workflow.
+- **React**: Leveraged for its component-based architecture, making the project modular and scalable.
+- **Tailwind CSS**: Used for its utility classes, which significantly speed up styling and ensure a consistent design.
+- **Framer Motion**: Integrated for creating seamless animations and enhancing user interactions.
+## Time Spent
+- **Day 1**:
+  - Project Setup and Initialization.
+  - Implementing Core Features.
+  - Initial Styling with Tailwind CSS.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Day 2**:
+  - Completing Styling and Enhancements.
+  - Adding Animations with Framer Motion.
+  - Testing, Debugging, and Final Improvements.
+# Getting Started
+- **Installation**
+```bash
+    cd softsale
+    npm install
+    npm run dev
