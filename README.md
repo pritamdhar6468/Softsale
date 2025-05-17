@@ -31,6 +31,8 @@
 ## Link
 [Live Demo - Softsale](http://softsale.vercel.app "This is the Vercel link to this project")
 ## Previous Works
+- [Live Demo - Freelance Project](https://studio-shape-and-scape.vercel.app/ "This is the Vercel link to this project")
+- [Live Demo - Cube Cafe](https://cube-cafe-lyart.vercel.app/ "This is the Vercel link to this project")
 - [Live Demo - Blogging Website](https://blogging-app-steel.vercel.app "This is the Vercel link to this project")
 - [Live Demo - Video Editor](https://video-editor-ivory-ten.vercel.app/dashboard "This is the Vercel link to this project")
 - [Live Demo - E-commerce](https://e-commerce-site-black.vercel.app/ "This is the Vercel link to this project")
