@@ -29,4 +29,4 @@
     npm run dev
 ```
 ## Link
-[Vercel link-Softsale](http://softsale.vercel.app "This is the Vercel link to this project")
+[Live Demo - Softsale](http://softsale.vercel.app "This is the Vercel link to this project")
